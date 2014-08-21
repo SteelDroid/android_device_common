@@ -15,4 +15,4 @@
 #
 
 PRODUCT_COPY_FILES := \
-	device/common/gps/gps.conf_AS_SUPL:system/etc/gps.conf
+    device/common/gps/gps.conf_AS_SUPL:system/etc/gps.conf
